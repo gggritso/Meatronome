@@ -1,0 +1,26 @@
+{
+  "name": "meatronome",
+  "version": "0.0.1",
+  "description": "A timing display for sending Meatspace messages",
+  "main": "meatronome.js",
+  "keywords": "meatspace",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./build.js | pbcopy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gggritso/meatronome"
+  },
+  "author": "George Gritsouk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gggritso/meatronome/issues"
+  },
+  "homepage": "https://github.com/gggritso/meatronome",
+  "devDependencies": {
+    "bookmarkletify": "0.0.1",
+    "gulp": "^3.8.10",
+    "handlebars": "^2.0.0"
+  }
+}
