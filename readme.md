@@ -1,6 +1,6 @@
 # Meatronome
 
-[Over Here](http://gggritso.com/Meatronome)
+[Over Here](http://gggritso.com/meatronome/)
 
 Adds a tiny pointer circle to the Meatspace video preview so you can time your loops like a pro! Just drag the link below to your bookmarks.
 
